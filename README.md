@@ -1,8 +1,11 @@
 Adafruit-Pi-ExternalRoot-helper
 ===============================
 
+Note from ertagh: Changed the script to work with Ubuntu 20.04 on a Raspberry Pi. 
+Tested it myself with an already running 20.04 on a Raspberry Pi 3b+ and it worked just fine.
+
 A shell script for configuring an external USB drive as root filesystem
-on a Raspberry Pi running Raspbian.  It's a companion to [Using an
+on a Raspberry Pi running Ubuntu 20.04.  It's a companion to [Using an
 External Drive as a Raspberry Pi Root Filesystem][tutorial], which you
 should read first.
 
